@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Picaflor",
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Picaflor - MiniJardines - Plantas",
